@@ -1,0 +1,6 @@
+# Raw comment text + full API payloads — never committed (privacy discipline
+# carried over from the Chorus/Reddit plan: aggregate/derived values only).
+data/raw/
+*.pyc
+__pycache__/
+.env
