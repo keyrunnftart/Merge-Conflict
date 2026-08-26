@@ -17,7 +17,24 @@
       "eyes": 0,
       "total_count": 18
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1627553270"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1627553270",
+    "sentiment": {
+      "compound": 0.368,
+      "pos": 0.038,
+      "neu": 0.962,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "Separating masonry from grid"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 1640961943,
@@ -37,7 +54,24 @@
       "eyes": 0,
       "total_count": 45
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1640961943"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1640961943",
+    "sentiment": {
+      "compound": -0.7527,
+      "pos": 0.01,
+      "neu": 0.916,
+      "neg": 0.074
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "never been a fan of including masonry in grid"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 1642945749,
@@ -57,7 +91,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1642945749"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1642945749",
+    "sentiment": {
+      "compound": 0.296,
+      "pos": 0.138,
+      "neu": 0.862,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 1644069747,
@@ -77,7 +126,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1644069747"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1644069747",
+    "sentiment": {
+      "compound": 0.8519,
+      "pos": 0.155,
+      "neu": 0.845,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 1644623143,
@@ -97,7 +161,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1644623143"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1644623143",
+    "sentiment": {
+      "compound": 0.6519,
+      "pos": 0.179,
+      "neu": 0.821,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 1710806191,
@@ -117,7 +196,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1710806191"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1710806191",
+    "sentiment": {
+      "compound": -0.243,
+      "pos": 0.047,
+      "neu": 0.882,
+      "neg": 0.071
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 1710838816,
@@ -137,7 +231,22 @@
       "eyes": 0,
       "total_count": 4
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1710838816"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1710838816",
+    "sentiment": {
+      "compound": -0.7053,
+      "pos": 0.0,
+      "neu": 0.957,
+      "neg": 0.043
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 1710848892,
@@ -157,7 +266,22 @@
       "eyes": 0,
       "total_count": 3
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1710848892"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1710848892",
+    "sentiment": {
+      "compound": 0.8679,
+      "pos": 0.05,
+      "neu": 0.941,
+      "neg": 0.008
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 1710854943,
@@ -177,7 +301,22 @@
       "eyes": 0,
       "total_count": 3
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1710854943"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1710854943",
+    "sentiment": {
+      "compound": -0.4019,
+      "pos": 0.0,
+      "neu": 0.971,
+      "neg": 0.029
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 1710875839,
@@ -197,7 +336,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1710875839"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1710875839",
+    "sentiment": {
+      "compound": 0.9287,
+      "pos": 0.108,
+      "neu": 0.869,
+      "neg": 0.024
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 1710879653,
@@ -217,7 +371,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1710879653"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1710879653",
+    "sentiment": {
+      "compound": 0.6791,
+      "pos": 0.062,
+      "neu": 0.906,
+      "neg": 0.032
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 1712185019,
@@ -237,7 +406,22 @@
       "eyes": 0,
       "total_count": 6
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1712185019"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1712185019",
+    "sentiment": {
+      "compound": -0.6664,
+      "pos": 0.039,
+      "neu": 0.891,
+      "neg": 0.07
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 1712202607,
@@ -257,7 +441,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1712202607"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1712202607",
+    "sentiment": {
+      "compound": 0.9255,
+      "pos": 0.113,
+      "neu": 0.839,
+      "neg": 0.048
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 1758047553,
@@ -277,7 +476,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1758047553"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1758047553",
+    "sentiment": {
+      "compound": 0.9944,
+      "pos": 0.092,
+      "neu": 0.898,
+      "neg": 0.01
+    },
+    "is_meeting_transcript": true,
+    "camp": {
+      "label": "not-applicable",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "not-applicable",
+      "effective_source": "not-applicable"
+    }
   },
   {
     "id": 1760366351,
@@ -297,7 +511,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1760366351"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1760366351",
+    "sentiment": {
+      "compound": 0.765,
+      "pos": 0.178,
+      "neu": 0.822,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 1779652481,
@@ -317,7 +546,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1779652481"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1779652481",
+    "sentiment": {
+      "compound": 0.8979,
+      "pos": 0.223,
+      "neu": 0.777,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 1779723832,
@@ -337,7 +581,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1779723832"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1779723832",
+    "sentiment": {
+      "compound": 0.9246,
+      "pos": 0.128,
+      "neu": 0.853,
+      "neg": 0.019
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 1779743062,
@@ -357,7 +616,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1779743062"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1779743062",
+    "sentiment": {
+      "compound": 0.9614,
+      "pos": 0.13,
+      "neu": 0.818,
+      "neg": 0.053
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 1779765284,
@@ -377,7 +651,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1779765284"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-1779765284",
+    "sentiment": {
+      "compound": 0.2375,
+      "pos": 0.103,
+      "neu": 0.798,
+      "neg": 0.099
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2071086963,
@@ -397,7 +686,24 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2071086963"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2071086963",
+    "sentiment": {
+      "compound": 0.8126,
+      "pos": 0.082,
+      "neu": 0.896,
+      "neg": 0.022
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "new display type"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2073950737,
@@ -417,7 +723,26 @@
       "eyes": 0,
       "total_count": 6
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2073950737"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2073950737",
+    "sentiment": {
+      "compound": 0.9113,
+      "pos": 0.041,
+      "neu": 0.936,
+      "neg": 0.023
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "own display type",
+        "own display type",
+        "own display type"
+      ],
+      "own_score": 6,
+      "ext_score": 2,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2074586448,
@@ -437,7 +762,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2074586448"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2074586448",
+    "sentiment": {
+      "compound": 0.8569,
+      "pos": 0.043,
+      "neu": 0.957,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2074967732,
@@ -457,7 +797,24 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2074967732"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2074967732",
+    "sentiment": {
+      "compound": 0.6346,
+      "pos": 0.051,
+      "neu": 0.936,
+      "neg": 0.013
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "separate display type"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2075210820,
@@ -477,7 +834,27 @@
       "eyes": 0,
       "total_count": 7
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075210820"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075210820",
+    "sentiment": {
+      "compound": 0.9992,
+      "pos": 0.102,
+      "neu": 0.86,
+      "neg": 0.038
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "separate display type",
+        "separated layout mode",
+        "unshippable",
+        "unfixable"
+      ],
+      "own_score": 6,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2075240700,
@@ -497,7 +874,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075240700"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075240700",
+    "sentiment": {
+      "compound": -0.9483,
+      "pos": 0.073,
+      "neu": 0.805,
+      "neg": 0.122
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2075284057,
@@ -517,7 +909,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075284057"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075284057",
+    "sentiment": {
+      "compound": 0.9494,
+      "pos": 0.083,
+      "neu": 0.9,
+      "neg": 0.017
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2075386656,
@@ -537,7 +944,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075386656"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075386656",
+    "sentiment": {
+      "compound": 0.9981,
+      "pos": 0.079,
+      "neu": 0.89,
+      "neg": 0.031
+    },
+    "is_meeting_transcript": true,
+    "camp": {
+      "label": "not-applicable",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "not-applicable",
+      "effective_source": "not-applicable"
+    }
   },
   {
     "id": 2075444244,
@@ -557,7 +979,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075444244"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075444244",
+    "sentiment": {
+      "compound": -0.0098,
+      "pos": 0.019,
+      "neu": 0.961,
+      "neg": 0.02
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2075501616,
@@ -577,7 +1014,24 @@
       "eyes": 3,
       "total_count": 13
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075501616"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075501616",
+    "sentiment": {
+      "compound": 0.9792,
+      "pos": 0.099,
+      "neu": 0.831,
+      "neg": 0.07
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "separate layout mode"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2075620726,
@@ -597,7 +1051,22 @@
       "eyes": 0,
       "total_count": 14
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075620726"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2075620726",
+    "sentiment": {
+      "compound": -0.4876,
+      "pos": 0.034,
+      "neu": 0.927,
+      "neg": 0.039
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2076051764,
@@ -617,7 +1086,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2076051764"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2076051764",
+    "sentiment": {
+      "compound": 0.875,
+      "pos": 0.074,
+      "neu": 0.9,
+      "neg": 0.026
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2076061704,
@@ -637,7 +1121,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2076061704"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2076061704",
+    "sentiment": {
+      "compound": -0.7572,
+      "pos": 0.061,
+      "neu": 0.858,
+      "neg": 0.08
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2076063753,
@@ -657,7 +1156,24 @@
       "eyes": 0,
       "total_count": 6
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2076063753"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2076063753",
+    "sentiment": {
+      "compound": 0.8963,
+      "pos": 0.091,
+      "neu": 0.895,
+      "neg": 0.015
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "grid-extension",
+      "evidence": [
+        "keeping Masonry in Grid"
+      ],
+      "own_score": 0,
+      "ext_score": 2,
+      "effective_label": "grid-extension",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2076070353,
@@ -677,7 +1193,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2076070353"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2076070353",
+    "sentiment": {
+      "compound": 0.6597,
+      "pos": 0.113,
+      "neu": 0.823,
+      "neg": 0.064
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2078577689,
@@ -697,7 +1228,22 @@
       "eyes": 0,
       "total_count": 3
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2078577689"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2078577689",
+    "sentiment": {
+      "compound": -0.6531,
+      "pos": 0.048,
+      "neu": 0.881,
+      "neg": 0.071
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2079120666,
@@ -717,7 +1263,22 @@
       "eyes": 0,
       "total_count": 3
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2079120666"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2079120666",
+    "sentiment": {
+      "compound": 0.9324,
+      "pos": 0.21,
+      "neu": 0.79,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2083405465,
@@ -737,7 +1298,26 @@
       "eyes": 0,
       "total_count": 10
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2083405465"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2083405465",
+    "sentiment": {
+      "compound": -0.2242,
+      "pos": 0.053,
+      "neu": 0.886,
+      "neg": 0.061
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "separate display type",
+        "separate display type",
+        "separate display type"
+      ],
+      "own_score": 6,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2083658906,
@@ -757,7 +1337,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2083658906"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2083658906",
+    "sentiment": {
+      "compound": 0.4019,
+      "pos": 0.066,
+      "neu": 0.934,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2083692080,
@@ -777,7 +1372,22 @@
       "eyes": 0,
       "total_count": 4
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2083692080"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2083692080",
+    "sentiment": {
+      "compound": 0.9246,
+      "pos": 0.213,
+      "neu": 0.768,
+      "neg": 0.019
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2087576515,
@@ -797,7 +1407,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2087576515"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2087576515",
+    "sentiment": {
+      "compound": 0.6983,
+      "pos": 0.124,
+      "neu": 0.836,
+      "neg": 0.04
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2088625377,
@@ -817,7 +1442,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2088625377"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2088625377",
+    "sentiment": {
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2088735416,
@@ -837,7 +1477,24 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2088735416"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2088735416",
+    "sentiment": {
+      "compound": 0.8074,
+      "pos": 0.202,
+      "neu": 0.755,
+      "neg": 0.043
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "separate display type"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2089066418,
@@ -857,7 +1514,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2089066418"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2089066418",
+    "sentiment": {
+      "compound": -0.0599,
+      "pos": 0.026,
+      "neu": 0.944,
+      "neg": 0.029
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2089639258,
@@ -877,7 +1549,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2089639258"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2089639258",
+    "sentiment": {
+      "compound": 0.7449,
+      "pos": 0.134,
+      "neu": 0.866,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2090733670,
@@ -897,7 +1584,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2090733670"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2090733670",
+    "sentiment": {
+      "compound": 0.9017,
+      "pos": 0.197,
+      "neu": 0.732,
+      "neg": 0.071
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2091152348,
@@ -917,7 +1619,25 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2091152348"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2091152348",
+    "sentiment": {
+      "compound": 0.918,
+      "pos": 0.211,
+      "neu": 0.789,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "separate display type",
+        "separate display type"
+      ],
+      "own_score": 4,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2091195506,
@@ -937,7 +1657,24 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2091195506"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2091195506",
+    "sentiment": {
+      "compound": 0.8338,
+      "pos": 0.287,
+      "neu": 0.713,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "separate display type"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2092371968,
@@ -957,7 +1694,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2092371968"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2092371968",
+    "sentiment": {
+      "compound": 0.8447,
+      "pos": 0.088,
+      "neu": 0.866,
+      "neg": 0.047
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2095913092,
@@ -977,7 +1729,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2095913092"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2095913092",
+    "sentiment": {
+      "compound": -0.8034,
+      "pos": 0.0,
+      "neu": 0.87,
+      "neg": 0.13
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2095928556,
@@ -997,7 +1764,22 @@
       "eyes": 0,
       "total_count": 5
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2095928556"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2095928556",
+    "sentiment": {
+      "compound": 0.9366,
+      "pos": 0.118,
+      "neu": 0.841,
+      "neg": 0.041
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2096194903,
@@ -1017,7 +1799,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2096194903"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2096194903",
+    "sentiment": {
+      "compound": -0.1149,
+      "pos": 0.054,
+      "neu": 0.89,
+      "neg": 0.056
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2096200742,
@@ -1037,7 +1834,24 @@
       "eyes": 0,
       "total_count": 4
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2096200742"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2096200742",
+    "sentiment": {
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "+1 the display: masonry"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2105737228,
@@ -1057,7 +1871,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2105737228"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2105737228",
+    "sentiment": {
+      "compound": 0.3612,
+      "pos": 0.047,
+      "neu": 0.953,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2108157365,
@@ -1077,7 +1906,22 @@
       "eyes": 0,
       "total_count": 3
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2108157365"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2108157365",
+    "sentiment": {
+      "compound": 0.9381,
+      "pos": 0.181,
+      "neu": 0.754,
+      "neg": 0.065
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2109587633,
@@ -1097,7 +1941,22 @@
       "eyes": 0,
       "total_count": 3
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2109587633"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2109587633",
+    "sentiment": {
+      "compound": 0.9936,
+      "pos": 0.169,
+      "neu": 0.789,
+      "neg": 0.042
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2110383617,
@@ -1117,7 +1976,22 @@
       "eyes": 0,
       "total_count": 4
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2110383617"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2110383617",
+    "sentiment": {
+      "compound": 0.9242,
+      "pos": 0.075,
+      "neu": 0.901,
+      "neg": 0.024
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2111469954,
@@ -1137,7 +2011,22 @@
       "eyes": 0,
       "total_count": 5
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2111469954"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2111469954",
+    "sentiment": {
+      "compound": 0.9396,
+      "pos": 0.109,
+      "neu": 0.851,
+      "neg": 0.04
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2112684742,
@@ -1157,7 +2046,22 @@
       "eyes": 0,
       "total_count": 4
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2112684742"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2112684742",
+    "sentiment": {
+      "compound": 0.7968,
+      "pos": 0.112,
+      "neu": 0.833,
+      "neg": 0.056
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2142534475,
@@ -1177,7 +2081,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2142534475"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2142534475",
+    "sentiment": {
+      "compound": -0.1725,
+      "pos": 0.026,
+      "neu": 0.937,
+      "neg": 0.036
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2142940353,
@@ -1197,7 +2116,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2142940353"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2142940353",
+    "sentiment": {
+      "compound": -0.1027,
+      "pos": 0.03,
+      "neu": 0.93,
+      "neg": 0.04
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2142943175,
@@ -1217,7 +2151,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2142943175"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2142943175",
+    "sentiment": {
+      "compound": 0.5859,
+      "pos": 0.069,
+      "neu": 0.931,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2163049807,
@@ -1237,7 +2186,22 @@
       "eyes": 0,
       "total_count": 3
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2163049807"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2163049807",
+    "sentiment": {
+      "compound": 0.707,
+      "pos": 0.088,
+      "neu": 0.858,
+      "neg": 0.054
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2361302387,
@@ -1257,7 +2221,24 @@
       "eyes": 0,
       "total_count": 10
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2361302387"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2361302387",
+    "sentiment": {
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "display: masonry is clearer"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2361396594,
@@ -1277,7 +2258,24 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2361396594"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2361396594",
+    "sentiment": {
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "+1 for display:masonry"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2361455973,
@@ -1297,7 +2295,24 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2361455973"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2361455973",
+    "sentiment": {
+      "compound": 0.6424,
+      "pos": 0.034,
+      "neu": 0.959,
+      "neg": 0.006
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "ambiguous",
+      "evidence": [
+        "prefer display: masonry"
+      ],
+      "own_score": 1,
+      "ext_score": 0,
+      "effective_label": "ambiguous",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2361821826,
@@ -1317,7 +2332,22 @@
       "eyes": 0,
       "total_count": 3
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2361821826"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2361821826",
+    "sentiment": {
+      "compound": -0.3339,
+      "pos": 0.0,
+      "neu": 0.958,
+      "neg": 0.042
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2362913240,
@@ -1337,7 +2367,22 @@
       "eyes": 0,
       "total_count": 3
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2362913240"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2362913240",
+    "sentiment": {
+      "compound": 0.7269,
+      "pos": 0.134,
+      "neu": 0.866,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2363166435,
@@ -1357,7 +2402,28 @@
       "eyes": 0,
       "total_count": 4
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2363166435"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2363166435",
+    "sentiment": {
+      "compound": 0.977,
+      "pos": 0.08,
+      "neu": 0.896,
+      "neg": 0.024
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "grid-extension",
+      "evidence": [
+        "part of the grid layout",
+        "part of the grid layout",
+        "part of the grid layout",
+        "Part of the Grid Layout",
+        "part of the grid layout"
+      ],
+      "own_score": 6,
+      "ext_score": 27,
+      "effective_label": "grid-extension",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2363560261,
@@ -1377,7 +2443,24 @@
       "eyes": 0,
       "total_count": 9
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2363560261"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2363560261",
+    "sentiment": {
+      "compound": 0.9892,
+      "pos": 0.094,
+      "neu": 0.864,
+      "neg": 0.042
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "+1 for an explicit display:masonry"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2363754501,
@@ -1397,7 +2480,24 @@
       "eyes": 0,
       "total_count": 4
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2363754501"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2363754501",
+    "sentiment": {
+      "compound": 0.7345,
+      "pos": 0.154,
+      "neu": 0.846,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "+1 for display: masonry"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2364142759,
@@ -1417,7 +2517,24 @@
       "eyes": 0,
       "total_count": 8
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2364142759"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2364142759",
+    "sentiment": {
+      "compound": 0.9463,
+      "pos": 0.128,
+      "neu": 0.847,
+      "neg": 0.026
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "Separating masonry from Grid"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2364626543,
@@ -1437,7 +2554,22 @@
       "eyes": 0,
       "total_count": 5
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2364626543"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2364626543",
+    "sentiment": {
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2365002075,
@@ -1457,7 +2589,25 @@
       "eyes": 0,
       "total_count": 3
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2365002075"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2365002075",
+    "sentiment": {
+      "compound": 0.9794,
+      "pos": 0.173,
+      "neu": 0.8,
+      "neg": 0.026
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "grid-extension",
+      "evidence": [
+        "adding masonry to display:grid",
+        "gracefully degrades to a traditional grid"
+      ],
+      "own_score": 0,
+      "ext_score": 3,
+      "effective_label": "grid-extension",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2365056752,
@@ -1477,7 +2627,24 @@
       "eyes": 0,
       "total_count": 8
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2365056752"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2365056752",
+    "sentiment": {
+      "compound": -0.4921,
+      "pos": 0.019,
+      "neu": 0.945,
+      "neg": 0.037
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "ambiguous",
+      "evidence": [
+        "prefer display: masonry"
+      ],
+      "own_score": 1,
+      "ext_score": 0,
+      "effective_label": "ambiguous",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2365293907,
@@ -1497,7 +2664,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2365293907"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2365293907",
+    "sentiment": {
+      "compound": 0.4404,
+      "pos": 0.492,
+      "neu": 0.508,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2366882505,
@@ -1517,7 +2699,25 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2366882505"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2366882505",
+    "sentiment": {
+      "compound": 0.9807,
+      "pos": 0.091,
+      "neu": 0.868,
+      "neg": 0.041
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "grid-extension",
+      "evidence": [
+        "part of the Grid",
+        "masonry within Grid"
+      ],
+      "own_score": 1,
+      "ext_score": 3,
+      "effective_label": "grid-extension",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2366980228,
@@ -1537,7 +2737,22 @@
       "eyes": 0,
       "total_count": 7
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2366980228"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2366980228",
+    "sentiment": {
+      "compound": 0.9076,
+      "pos": 0.111,
+      "neu": 0.831,
+      "neg": 0.057
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2367019742,
@@ -1557,7 +2772,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2367019742"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2367019742",
+    "sentiment": {
+      "compound": 0.7631,
+      "pos": 0.103,
+      "neu": 0.817,
+      "neg": 0.081
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "grid-extension",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2368689110,
@@ -1577,7 +2807,24 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2368689110"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2368689110",
+    "sentiment": {
+      "compound": 0.9404,
+      "pos": 0.176,
+      "neu": 0.781,
+      "neg": 0.044
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "+1 for display: masonry"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2369713192,
@@ -1597,7 +2844,24 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2369713192"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2369713192",
+    "sentiment": {
+      "compound": -0.2263,
+      "pos": 0.0,
+      "neu": 0.957,
+      "neg": 0.043
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "+1 for display: masonry"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2369809406,
@@ -1617,7 +2881,25 @@
       "eyes": 0,
       "total_count": 4
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2369809406"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2369809406",
+    "sentiment": {
+      "compound": 0.9537,
+      "pos": 0.098,
+      "neu": 0.859,
+      "neg": 0.042
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "grid-extension",
+      "evidence": [
+        "grid-template-rows: masonry",
+        "masonry within grid"
+      ],
+      "own_score": 0,
+      "ext_score": 3,
+      "effective_label": "grid-extension",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2370539398,
@@ -1637,7 +2919,24 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2370539398"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2370539398",
+    "sentiment": {
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "+1 for display:masonry"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2371691059,
@@ -1657,7 +2956,24 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2371691059"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2371691059",
+    "sentiment": {
+      "compound": 0.7202,
+      "pos": 0.055,
+      "neu": 0.912,
+      "neg": 0.033
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "splitting the layout models"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2371870085,
@@ -1677,7 +2993,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2371870085"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2371870085",
+    "sentiment": {
+      "compound": 0.8974,
+      "pos": 0.072,
+      "neu": 0.886,
+      "neg": 0.042
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "grid-extension",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2372039355,
@@ -1697,7 +3028,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2372039355"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2372039355",
+    "sentiment": {
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2372157396,
@@ -1717,7 +3063,24 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2372157396"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2372157396",
+    "sentiment": {
+      "compound": 0.7572,
+      "pos": 0.139,
+      "neu": 0.826,
+      "neg": 0.034
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "grid-extension",
+      "evidence": [
+        "grid-template-rows: masonry"
+      ],
+      "own_score": 0,
+      "ext_score": 2,
+      "effective_label": "grid-extension",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2372545490,
@@ -1737,7 +3100,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2372545490"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2372545490",
+    "sentiment": {
+      "compound": -0.25,
+      "pos": 0.0,
+      "neu": 0.983,
+      "neg": 0.017
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2372628364,
@@ -1757,7 +3135,24 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2372628364"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2372628364",
+    "sentiment": {
+      "compound": -0.25,
+      "pos": 0.034,
+      "neu": 0.908,
+      "neg": 0.058
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "ambiguous",
+      "evidence": [
+        "support display: masonry"
+      ],
+      "own_score": 1,
+      "ext_score": 0,
+      "effective_label": "ambiguous",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2372841177,
@@ -1777,7 +3172,22 @@
       "eyes": 1,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2372841177"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2372841177",
+    "sentiment": {
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "grid-extension",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2374332085,
@@ -1797,7 +3207,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2374332085"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2374332085",
+    "sentiment": {
+      "compound": 0.4019,
+      "pos": 0.068,
+      "neu": 0.932,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2374496770,
@@ -1817,7 +3242,22 @@
       "eyes": 0,
       "total_count": 4
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2374496770"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2374496770",
+    "sentiment": {
+      "compound": 0.62,
+      "pos": 0.091,
+      "neu": 0.852,
+      "neg": 0.057
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2374867640,
@@ -1837,7 +3277,25 @@
       "eyes": 0,
       "total_count": 10
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2374867640"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2374867640",
+    "sentiment": {
+      "compound": 0.949,
+      "pos": 0.183,
+      "neu": 0.767,
+      "neg": 0.05
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "display: masonry is a better",
+        "support display: masonry"
+      ],
+      "own_score": 3,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2375168878,
@@ -1857,7 +3315,24 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2375168878"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2375168878",
+    "sentiment": {
+      "compound": 0.9042,
+      "pos": 0.154,
+      "neu": 0.846,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "display: masonry would be better"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2375452046,
@@ -1877,7 +3352,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2375452046"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2375452046",
+    "sentiment": {
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2375590693,
@@ -1897,7 +3387,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2375590693"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2375590693",
+    "sentiment": {
+      "compound": 0.7003,
+      "pos": 0.199,
+      "neu": 0.746,
+      "neg": 0.055
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2375618941,
@@ -1917,7 +3422,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2375618941"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2375618941",
+    "sentiment": {
+      "compound": 0.8074,
+      "pos": 0.055,
+      "neu": 0.934,
+      "neg": 0.01
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "grid-extension",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2376001868,
@@ -1937,7 +3457,24 @@
       "eyes": 0,
       "total_count": 4
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2376001868"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2376001868",
+    "sentiment": {
+      "compound": -0.43,
+      "pos": 0.073,
+      "neu": 0.804,
+      "neg": 0.123
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "display: masonry would be much clearer"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2376082571,
@@ -1957,7 +3494,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2376082571"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2376082571",
+    "sentiment": {
+      "compound": 0.3612,
+      "pos": 0.122,
+      "neu": 0.878,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "grid-extension",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2376392956,
@@ -1977,7 +3529,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2376392956"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2376392956",
+    "sentiment": {
+      "compound": 0.0,
+      "pos": 0.02,
+      "neu": 0.961,
+      "neg": 0.02
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2376440606,
@@ -1997,7 +3564,24 @@
       "eyes": 0,
       "total_count": 3
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2376440606"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2376440606",
+    "sentiment": {
+      "compound": 0.3151,
+      "pos": 0.067,
+      "neu": 0.871,
+      "neg": 0.061
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "ambiguous",
+      "evidence": [
+        "prefer the display: masonry"
+      ],
+      "own_score": 1,
+      "ext_score": 0,
+      "effective_label": "ambiguous",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2377155019,
@@ -2017,7 +3601,24 @@
       "eyes": 0,
       "total_count": 3
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377155019"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377155019",
+    "sentiment": {
+      "compound": 0.4926,
+      "pos": 0.347,
+      "neu": 0.653,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "+1 for display:masonry"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2377159507,
@@ -2037,7 +3638,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377159507"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377159507",
+    "sentiment": {
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2377204502,
@@ -2057,7 +3673,25 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377204502"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377204502",
+    "sentiment": {
+      "compound": 0.9918,
+      "pos": 0.19,
+      "neu": 0.772,
+      "neg": 0.037
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "grid-extension",
+      "evidence": [
+        "part of the grid",
+        "integrated as part of the grid"
+      ],
+      "own_score": 1,
+      "ext_score": 4,
+      "effective_label": "grid-extension",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2377538116,
@@ -2077,7 +3711,22 @@
       "eyes": 0,
       "total_count": 6
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377538116"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377538116",
+    "sentiment": {
+      "compound": 0.9666,
+      "pos": 0.128,
+      "neu": 0.84,
+      "neg": 0.032
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2377565618,
@@ -2097,7 +3746,22 @@
       "eyes": 0,
       "total_count": 10
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377565618"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377565618",
+    "sentiment": {
+      "compound": 0.5859,
+      "pos": 0.545,
+      "neu": 0.455,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2377572386,
@@ -2117,7 +3781,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377572386"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377572386",
+    "sentiment": {
+      "compound": 0.8355,
+      "pos": 0.084,
+      "neu": 0.916,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2377853707,
@@ -2137,7 +3816,22 @@
       "eyes": 0,
       "total_count": 4
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377853707"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377853707",
+    "sentiment": {
+      "compound": 0.4939,
+      "pos": 0.095,
+      "neu": 0.833,
+      "neg": 0.072
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2377854026,
@@ -2157,7 +3851,22 @@
       "eyes": 0,
       "total_count": 5
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377854026"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377854026",
+    "sentiment": {
+      "compound": 0.9866,
+      "pos": 0.134,
+      "neu": 0.829,
+      "neg": 0.036
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "grid-extension",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2377904146,
@@ -2177,7 +3886,22 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377904146"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377904146",
+    "sentiment": {
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2377924305,
@@ -2197,7 +3921,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377924305"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2377924305",
+    "sentiment": {
+      "compound": 0.3818,
+      "pos": 0.047,
+      "neu": 0.953,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2378188639,
@@ -2217,7 +3956,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2378188639"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2378188639",
+    "sentiment": {
+      "compound": 0.973,
+      "pos": 0.056,
+      "neu": 0.927,
+      "neg": 0.017
+    },
+    "is_meeting_transcript": true,
+    "camp": {
+      "label": "not-applicable",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "not-applicable",
+      "effective_source": "not-applicable"
+    }
   },
   {
     "id": 2378387569,
@@ -2237,7 +3991,24 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2378387569"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2378387569",
+    "sentiment": {
+      "compound": 0.9297,
+      "pos": 0.104,
+      "neu": 0.86,
+      "neg": 0.036
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "+1 for display: masonry"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2379221389,
@@ -2257,7 +4028,25 @@
       "eyes": 0,
       "total_count": 18
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2379221389"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2379221389",
+    "sentiment": {
+      "compound": 0.9902,
+      "pos": 0.145,
+      "neu": 0.836,
+      "neg": 0.019
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "ambiguous",
+      "evidence": [
+        "support display: masonry",
+        "part of the grid"
+      ],
+      "own_score": 1,
+      "ext_score": 2,
+      "effective_label": "ambiguous",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2379972017,
@@ -2277,7 +4066,26 @@
       "eyes": 0,
       "total_count": 6
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2379972017"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2379972017",
+    "sentiment": {
+      "compound": 0.7596,
+      "pos": 0.066,
+      "neu": 0.91,
+      "neg": 0.024
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "grid-extension",
+      "evidence": [
+        "part of Grid",
+        "grid-template-rows: masonry",
+        "grid-template-rows: masonry"
+      ],
+      "own_score": 2,
+      "ext_score": 6,
+      "effective_label": "grid-extension",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2381579128,
@@ -2297,7 +4105,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2381579128"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2381579128",
+    "sentiment": {
+      "compound": 0.9878,
+      "pos": 0.15,
+      "neu": 0.803,
+      "neg": 0.047
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "grid-extension",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2383581093,
@@ -2317,7 +4140,24 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2383581093"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2383581093",
+    "sentiment": {
+      "compound": 0.9287,
+      "pos": 0.103,
+      "neu": 0.886,
+      "neg": 0.011
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "separate layout mode"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2384657999,
@@ -2337,7 +4177,24 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2384657999"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2384657999",
+    "sentiment": {
+      "compound": 0.7742,
+      "pos": 0.1,
+      "neu": 0.865,
+      "neg": 0.034
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "grid-extension",
+      "evidence": [
+        "part of the grid"
+      ],
+      "own_score": 0,
+      "ext_score": 2,
+      "effective_label": "grid-extension",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2384847070,
@@ -2357,7 +4214,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2384847070"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2384847070",
+    "sentiment": {
+      "compound": 0.6093,
+      "pos": 0.256,
+      "neu": 0.616,
+      "neg": 0.127
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "grid-extension",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2386110534,
@@ -2377,7 +4249,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2386110534"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2386110534",
+    "sentiment": {
+      "compound": 0.6249,
+      "pos": 0.041,
+      "neu": 0.959,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2387304583,
@@ -2397,7 +4284,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2387304583"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2387304583",
+    "sentiment": {
+      "compound": 0.5023,
+      "pos": 0.086,
+      "neu": 0.858,
+      "neg": 0.056
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "grid-extension",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2387448716,
@@ -2417,7 +4319,22 @@
       "eyes": 0,
       "total_count": 3
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2387448716"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2387448716",
+    "sentiment": {
+      "compound": 0.8953,
+      "pos": 0.104,
+      "neu": 0.841,
+      "neg": 0.055
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2387555785,
@@ -2437,7 +4354,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2387555785"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2387555785",
+    "sentiment": {
+      "compound": 0.5975,
+      "pos": 0.069,
+      "neu": 0.882,
+      "neg": 0.049
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "grid-extension",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2391697980,
@@ -2457,7 +4389,22 @@
       "eyes": 0,
       "total_count": 16
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2391697980"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2391697980",
+    "sentiment": {
+      "compound": 0.0,
+      "pos": 0.0,
+      "neu": 1.0,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "no-signal",
+      "effective_source": "no-signal"
+    }
   },
   {
     "id": 2394444241,
@@ -2477,7 +4424,25 @@
       "eyes": 0,
       "total_count": 8
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2394444241"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2394444241",
+    "sentiment": {
+      "compound": 0.6245,
+      "pos": 0.084,
+      "neu": 0.86,
+      "neg": 0.056
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "separate spec",
+        "display: masonry; would be clearer"
+      ],
+      "own_score": 4,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2394516164,
@@ -2497,7 +4462,22 @@
       "eyes": 0,
       "total_count": 2
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2394516164"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2394516164",
+    "sentiment": {
+      "compound": -0.4956,
+      "pos": 0.069,
+      "neu": 0.828,
+      "neg": 0.103
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "grid-extension",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2394749289,
@@ -2517,7 +4497,22 @@
       "eyes": 0,
       "total_count": 9
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2394749289"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2394749289",
+    "sentiment": {
+      "compound": -0.4497,
+      "pos": 0.025,
+      "neu": 0.936,
+      "neg": 0.038
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2395105791,
@@ -2537,7 +4532,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2395105791"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2395105791",
+    "sentiment": {
+      "compound": 0.7901,
+      "pos": 0.32,
+      "neu": 0.68,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "grid-extension",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2396142311,
@@ -2557,7 +4567,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2396142311"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2396142311",
+    "sentiment": {
+      "compound": 0.5859,
+      "pos": 0.161,
+      "neu": 0.839,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2396592300,
@@ -2577,7 +4602,24 @@
       "eyes": 0,
       "total_count": 1
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2396592300"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2396592300",
+    "sentiment": {
+      "compound": 0.6542,
+      "pos": 0.084,
+      "neu": 0.879,
+      "neg": 0.038
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "grid-extension",
+      "evidence": [
+        "grid-template-rows: masonry"
+      ],
+      "own_score": 0,
+      "ext_score": 2,
+      "effective_label": "grid-extension",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2398660380,
@@ -2597,7 +4639,22 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2398660380"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2398660380",
+    "sentiment": {
+      "compound": -0.3716,
+      "pos": 0.073,
+      "neu": 0.792,
+      "neg": 0.135
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "no-signal",
+      "evidence": [],
+      "own_score": 0,
+      "ext_score": 0,
+      "effective_label": "grid-extension",
+      "effective_source": "author-aggregate"
+    }
   },
   {
     "id": 2415249074,
@@ -2617,7 +4674,24 @@
       "eyes": 1,
       "total_count": 7
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2415249074"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2415249074",
+    "sentiment": {
+      "compound": 0.5502,
+      "pos": 0.046,
+      "neu": 0.954,
+      "neg": 0.0
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "own-display-type",
+      "evidence": [
+        "own display type"
+      ],
+      "own_score": 2,
+      "ext_score": 0,
+      "effective_label": "own-display-type",
+      "effective_source": "this-comment"
+    }
   },
   {
     "id": 2415289921,
@@ -2637,6 +4711,23 @@
       "eyes": 0,
       "total_count": 0
     },
-    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2415289921"
+    "html_url": "https://github.com/w3c/csswg-drafts/issues/9041#issuecomment-2415289921",
+    "sentiment": {
+      "compound": 0.9793,
+      "pos": 0.116,
+      "neu": 0.857,
+      "neg": 0.027
+    },
+    "is_meeting_transcript": false,
+    "camp": {
+      "label": "grid-extension",
+      "evidence": [
+        "grid-template-rows: masonry"
+      ],
+      "own_score": 0,
+      "ext_score": 2,
+      "effective_label": "grid-extension",
+      "effective_source": "this-comment"
+    }
   }
 ]

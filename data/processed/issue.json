@@ -19,5 +19,11 @@
     "total_count": 104
   },
   "html_url": "https://github.com/w3c/csswg-drafts/issues/9041",
-  "comments_field": 132
+  "comments_field": 132,
+  "sentiment": {
+    "compound": 0.9818,
+    "pos": 0.1,
+    "neu": 0.85,
+    "neg": 0.051
+  }
 }
