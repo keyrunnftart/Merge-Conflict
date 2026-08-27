@@ -11,16 +11,32 @@ import math
 import numpy as np
 
 N_RUNS = 50
-MAX_ITER = 3000
+# --- v2 constants: corrected after the first real render exposed a real
+# problem the numeric score alone had hidden (see LAYOUT_CRITERION.md
+# addendum / commit message for the full account). With K_CENTER=0.08,
+# the seed-31 "winner" scored well (score=190.7) but rendered as a
+# collapsed point-blob (own-display-type) trailing into a near-1D comet
+# line (grid-extension) escaping to x=1233 -- the score formula doesn't
+# penalize that degenerate shape because camp_separation and cross_tension
+# are both still large for a stretched-out arrangement. Root cause: the
+# centering force was too weak to contain the system before the camp/
+# repulsion forces could reach a genuine 2D-blob equilibrium; nodes drifted
+# outward faster than clustering could organize them. Fix: K_CENTER raised
+# ~7.5x (0.08 -> 0.6) and K_CAMP raised (3.0 -> 8.0) so clustering actually
+# dominates within a bounded field. This is the same category of fix as the
+# earlier camp-force-functional-form and integrator corrections -- signals
+# and their qualitative force assignment are unchanged, only the relative
+# strength needed for the intended (and now visually verified) behavior.
+MAX_ITER = 4000
 K_REP = 150.0
-K_SPRING = 0.12
-K_CAMP = 3.0
-K_CENTER = 0.08
+K_SPRING = 0.05
+K_CAMP = 8.0
+K_CENTER = 0.6
 ENERGY_EPS = 0.01
-SUSTAINED_STEPS = 25
+SUSTAINED_STEPS = 30
 INIT_SCATTER = 60.0
 T0 = 20.0
-T_MIN = 0.02
+T_MIN = 0.015
 
 
 def load_graph():
