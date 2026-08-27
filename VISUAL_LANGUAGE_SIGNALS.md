@@ -116,3 +116,31 @@ the original locked principle.
 | edge color | camp relationship of endpoints | medium, disclosed limitations |
 | edge presence | real reply/mention structure | not yet built |
 | *(dropped)* | sentiment | low — demonstrated wrong on consequential comments |
+
+## Addendum: sentiment in layout — closed
+
+The appearance decision above deliberately left one door open: whether
+sentiment could still drive the *force-directed layout* (attraction/
+repulsion forces determining node position), separately from glyph
+appearance. Closing that now, before any layout criterion is designed,
+rather than leaving it to be decided implicitly by whatever's convenient
+when that step happens.
+
+**Decision: excluded from layout too, same reasoning as the appearance
+decision.** If a demonstrably-wrong signal shouldn't drive how a node
+*looks* because that asserts false precision, it shouldn't drive where
+a node *sits* either — position in a force-directed layout is at least
+as legible a claim as fill or stroke, arguably more so, since clustering
+and distance read as relationship to a viewer. Using sentiment there
+would mean a node could be pulled toward or away from others based on
+the same score that put a neutral procedural comment at -0.705 and a
+pointed "unshippable/unfixable" critique at 0.999 — the exact two
+failures already documented above. There's no principled reason a wrong
+number becomes trustworthy just because it's driving position instead
+of color.
+
+Layout forces should draw only from the same high/medium-reliability
+signals already in use for appearance: reaction engagement, contested-
+ness, camp, body length, and the real edge structure (task 5). Sentiment
+data stays in `data/processed/` for the record, drives nothing visual or
+structural anywhere in the piece.
