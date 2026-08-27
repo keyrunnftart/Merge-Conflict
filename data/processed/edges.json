@@ -1,0 +1,418 @@
+[
+  {
+    "source": 1627553270,
+    "target": "root",
+    "type": "mention",
+    "evidence": "@bfgeek"
+  },
+  {
+    "source": 1644069747,
+    "target": 1642945749,
+    "type": "mention",
+    "evidence": "@fantasai"
+  },
+  {
+    "source": 1710875839,
+    "target": 1710854943,
+    "type": "quote",
+    "evidence": "Today this would just be a grid with two columns and one row, with all the stuff",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 1712185019,
+    "target": 1710879653,
+    "type": "quote",
+    "evidence": "Masonry's entire reason for existing is to allow you to place items according to",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 1779743062,
+    "target": 1779723832,
+    "type": "mention",
+    "evidence": "@nicoburns"
+  },
+  {
+    "source": 2074586448,
+    "target": 2073950737,
+    "type": "quote",
+    "evidence": "There is at least one feature in Grid that doesn't make sense in Masonry (`grid-",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2074586448,
+    "target": 2073950737,
+    "type": "quote",
+    "evidence": "More specifically, consider `grid-template-columns: 100px auto auto auto 50px`, ",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2074967732,
+    "target": 2073950737,
+    "type": "mention",
+    "evidence": "@alisonmaher"
+  },
+  {
+    "source": 2075284057,
+    "target": 2074967732,
+    "type": "quote",
+    "evidence": "This isn't something that should play into our decision here, which should be gu",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2075444244,
+    "target": 2075284057,
+    "type": "quote",
+    "evidence": "Implementability should be discussed when the implementation is derived from the",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2078577689,
+    "target": 2075444244,
+    "type": "mention",
+    "evidence": "@fantasai"
+  },
+  {
+    "source": 2078577689,
+    "target": 2076070353,
+    "type": "mention",
+    "evidence": "@nicoburns"
+  },
+  {
+    "source": 2079120666,
+    "target": 2078577689,
+    "type": "mention",
+    "evidence": "@tabatkins"
+  },
+  {
+    "source": 2083658906,
+    "target": 2083405465,
+    "type": "quote",
+    "evidence": "New properties must be designed to accommodate both modes",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2083692080,
+    "target": 2083658906,
+    "type": "quote",
+    "evidence": "And this must be done when new properties or values are first introduced. We can",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2087576515,
+    "target": 2083405465,
+    "type": "quote",
+    "evidence": "More complicated value spaces (some apply only to one mode)",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2089066418,
+    "target": 2088735416,
+    "type": "mention",
+    "evidence": "@nt1m"
+  },
+  {
+    "source": 2092371968,
+    "target": 2091152348,
+    "type": "mention",
+    "evidence": "@astearns"
+  },
+  {
+    "source": 2092371968,
+    "target": 2083405465,
+    "type": "quote",
+    "evidence": "Less complicated values (each mode has only what it can use)",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2095913092,
+    "target": 2092371968,
+    "type": "mention",
+    "evidence": "@Que-tin"
+  },
+  {
+    "source": 2095913092,
+    "target": 2092371968,
+    "type": "quote",
+    "evidence": "I still run into people who don't understand grid and are still only using flexb",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2096194903,
+    "target": 2095928556,
+    "type": "mention",
+    "evidence": "@chrisarmstrong"
+  },
+  {
+    "source": 2096194903,
+    "target": 2095928556,
+    "type": "quote",
+    "evidence": "When I say `background: black`, then switch it to `background: linear-gradient(4",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2108157365,
+    "target": 2105737228,
+    "type": "mention",
+    "evidence": "@phaux"
+  },
+  {
+    "source": 2109587633,
+    "target": 2108157365,
+    "type": "mention",
+    "evidence": "@mirisuzanne"
+  },
+  {
+    "source": 2109587633,
+    "target": 2108157365,
+    "type": "quote",
+    "evidence": "I do wonder if there's any best-of-both approach here? But I don't know what tha",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2142534475,
+    "target": 2089066418,
+    "type": "mention",
+    "evidence": "@tabatkins"
+  },
+  {
+    "source": 2142534475,
+    "target": 2075210820,
+    "type": "quote",
+    "evidence": "In other words, every example given in Jen's blog post is just fine. Those are a",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2163049807,
+    "target": 2111469954,
+    "type": "mention",
+    "evidence": "@frivoal"
+  },
+  {
+    "source": 2163049807,
+    "target": 2111469954,
+    "type": "quote",
+    "evidence": "I suspect the answer might be: not if you want a good design, but if fallback is",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2363560261,
+    "target": 2363166435,
+    "type": "quote",
+    "evidence": "### Fallback Strategy In terms of fallback support, while it may seem like a dis",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2363560261,
+    "target": 2363166435,
+    "type": "quote",
+    "evidence": "### Developer Experience If masonry were implemented as a separate set of proper",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2363560261,
+    "target": 2363166435,
+    "type": "quote",
+    "evidence": "It would also ensure flexible and expressive designs, while benefiting from futu",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2364626543,
+    "target": 2364142759,
+    "type": "mention",
+    "evidence": "@angelux"
+  },
+  {
+    "source": 2366882505,
+    "target": 2363560261,
+    "type": "mention",
+    "evidence": "@rjgotten"
+  },
+  {
+    "source": 2366980228,
+    "target": 2366882505,
+    "type": "quote",
+    "evidence": "If those who support `display: masonry;` believe there are specific reasons or p",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2367019742,
+    "target": 2366980228,
+    "type": "mention",
+    "evidence": "@rachelandrew"
+  },
+  {
+    "source": 2369809406,
+    "target": 2366980228,
+    "type": "quote",
+    "evidence": "Reusing existing properties is more confusing, not less, if those properties beh",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2371870085,
+    "target": 2371691059,
+    "type": "mention",
+    "evidence": "@rjgotten"
+  },
+  {
+    "source": 2372039355,
+    "target": 2371870085,
+    "type": "quote",
+    "evidence": "The column widths themselves would need to be calculated in exactly the same way",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2372545490,
+    "target": 2371870085,
+    "type": "mention",
+    "evidence": "@nmn"
+  },
+  {
+    "source": 2372545490,
+    "target": 2372039355,
+    "type": "mention",
+    "evidence": "@Loirooriol"
+  },
+  {
+    "source": 2372628364,
+    "target": 2371691059,
+    "type": "mention",
+    "evidence": "@rjgotten"
+  },
+  {
+    "source": 2372628364,
+    "target": 2371870085,
+    "type": "mention",
+    "evidence": "@nmn"
+  },
+  {
+    "source": 2372841177,
+    "target": 2372545490,
+    "type": "mention",
+    "evidence": "@tabatkins"
+  },
+  {
+    "source": 2374496770,
+    "target": 2372628364,
+    "type": "mention",
+    "evidence": "@cat394"
+  },
+  {
+    "source": 2376082571,
+    "target": 2375618941,
+    "type": "mention",
+    "evidence": "@cat394"
+  },
+  {
+    "source": 2376082571,
+    "target": 2375618941,
+    "type": "quote",
+    "evidence": "Grid and masonry layouts are fundamentally different layout mechanisms.",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2377204502,
+    "target": 2376392956,
+    "type": "mention",
+    "evidence": "@rjgotten"
+  },
+  {
+    "source": 2377204502,
+    "target": 2376082571,
+    "type": "mention",
+    "evidence": "@firefoxic"
+  },
+  {
+    "source": 2377204502,
+    "target": 2372841177,
+    "type": "mention",
+    "evidence": "@nmn"
+  },
+  {
+    "source": 2377904146,
+    "target": 2377854026,
+    "type": "mention",
+    "evidence": "@nmn"
+  },
+  {
+    "source": 2377904146,
+    "target": 2377854026,
+    "type": "quote",
+    "evidence": "There is a reason that masonry has been implemented with columns in the past, bu",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2379221389,
+    "target": 2377854026,
+    "type": "mention",
+    "evidence": "@nmn"
+  },
+  {
+    "source": 2381579128,
+    "target": 2377904146,
+    "type": "mention",
+    "evidence": "@Loirooriol"
+  },
+  {
+    "source": 2381579128,
+    "target": 2379221389,
+    "type": "mention",
+    "evidence": "@cat394"
+  },
+  {
+    "source": 2384657999,
+    "target": 2383581093,
+    "type": "mention",
+    "evidence": "@rjgotten"
+  },
+  {
+    "source": 2384847070,
+    "target": 2384657999,
+    "type": "quote",
+    "evidence": "I'm also not sure it's a good use-case to try and solve.",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2386110534,
+    "target": 2384657999,
+    "type": "quote",
+    "evidence": "On smaller screens, the last column goes away and the elements within it become ",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2387304583,
+    "target": 2386110534,
+    "type": "mention",
+    "evidence": "@rjgotten"
+  },
+  {
+    "source": 2387448716,
+    "target": 2387304583,
+    "type": "mention",
+    "evidence": "@nmn"
+  },
+  {
+    "source": 2387448716,
+    "target": 2381579128,
+    "type": "quote",
+    "evidence": "This talk from Nicole Sullivan really brought up a lot of questions for me.",
+    "ambiguous_candidates": null
+  },
+  {
+    "source": 2387555785,
+    "target": 2387448716,
+    "type": "mention",
+    "evidence": "@tabatkins"
+  },
+  {
+    "source": 2395105791,
+    "target": 2394749289,
+    "type": "mention",
+    "evidence": "@tabatkins"
+  },
+  {
+    "source": 2398660380,
+    "target": 2396142311,
+    "type": "mention",
+    "evidence": "@rjgotten"
+  }
+]
