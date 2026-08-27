@@ -273,3 +273,105 @@ doing so with the render already in view would risk retuning toward a
 preferred look rather than fixing a diagnosed defect, which is exactly
 what freezing implementation constants *before* being satisfied with the
 picture is meant to prevent.
+
+## Addendum: thumbnail-legibility audit
+
+Per the standing discipline ("audit at thumbnail scale before finalizing
+... check at ~64-256px"), the v1 render (`output/merge_conflict_v1.svg`)
+was rasterized at 256px, 128px, and 64px wide (preserving aspect) and
+inspected. The specific question raised: does grid-extension — visually
+the sparsest camp, and the smaller of the piece's two real opposing
+camps — survive being shrunk, the way Drift's adrift-majority nearly
+didn't.
+
+**Finding: it thinned out disproportionately, and by 64px was close to
+gone.** At 256px, all three camps were still distinguishable by color
+and rough density. At 128px, own-display-type read as a solid, confident
+mass; grid-extension was present but visibly fainter — a real risk zone.
+At 64px, grid-extension was reduced to a barely-perceptible smudge,
+while own-display-type (denser, larger glyphs) still registered as a
+mass. This matters specifically because own-display-type and
+grid-extension are the piece's two real opposing camps — the "two-state"
+reading this piece depends on requires both sides to still register as
+present, not one dominant and one vanishing.
+
+**Root cause, measured, not assumed:**
+- *Size*: grid-extension's real engagement-driven glyph sizes cluster
+  near the render floor — mean half-size 5.01, max only 6.62 — against
+  own-display-type's mean 5.45, max 12.05. Grid-extension has no
+  high-engagement outlier nodes to anchor visual weight at any scale;
+  every one of its glyphs is close to the smallest the formula produces.
+  This is honest (grid-extension really did get fewer comments with
+  less reaction engagement — 24 comments vs. 60), but the previous floor
+  (`half = 3.5 + ...`, `stroke_w = 0.4 + ...`) put grid-extension's
+  typical glyph and outline under ~1px at a 128-256px thumbnail width —
+  crossing from "honestly smaller" into "not really there."
+- *Contrast*: WCAG relative-luminance contrast against the background
+  (`#F1ECE2`), computed from the actual rendered stroke opacity (was
+  0.85): own-display-type's teal = 3.75, grid-extension's rust = 2.84,
+  unclassified's gray = 2.16. The commonly used large-graphic threshold
+  is 3:1 — grid-extension's real rendered contrast sat below it.
+
+**Fix applied, `scripts/render.py`, both changes uniform/camp-blind (not
+targeted at grid-extension specifically, though it benefits most since
+its real distribution sits closest to the floor):**
+- Size floor: `half = 3.5 + ...` → `half = 5.0 + ...`; stroke-width floor
+  `0.4 + ...` → `0.8 + ...`. The sqrt(engagement) term is untouched, so
+  nodes with more real engagement still scale up the same way above the
+  floor — this doesn't equalize or fabricate data, it stops the smallest
+  real values from crossing into invisible.
+- Stroke opacity: `0.85` → `1.0` for all three camps uniformly. Fill
+  opacity bumped `0.30` → `0.36` for own-display-type and grid-extension
+  only (the two real opposing camps this reading depends on);
+  unclassified's fill stays at `0.20`, unchanged, since it is
+  deliberately recessive by design (`VISUAL_LANGUAGE_SIGNALS.md`) and
+  isn't part of the two-state opposition being protected here.
+
+**Re-measured after the fix:** grid-extension's rendered stroke contrast
+rose from 2.84 to 3.53 (now above the 3:1 threshold; own-display-type's
+was already 3.75-5.01 range). Re-rendered thumbnails at the same three
+sizes show a real, visible improvement at 256px and 128px — grid-
+extension reads distinctly denser/more saturated at both. Full-canvas
+and zoomed views were re-checked and show no new overlap collapse or
+other regression from the larger floor.
+
+**What the fix does not solve, disclosed rather than hidden:** at 64px,
+grid-extension is still markedly weaker than own-display-type, just less
+so than before. This appears to be a genuine density limit of the piece
+rather than a parameter that can be tuned away: 133 real, distinct data
+points spread across a 2120px-wide composition cannot individually
+survive compression to a 64px-wide image without either inflating every
+glyph far beyond what its real engagement value would justify (breaking
+the engagement=size channel's honesty) or reducing the node count (which
+would mean discarding real comments, not visualizing them faithfully). A
+64px rendering is closer to a favicon than a gallery thumbnail; the more
+realistic risk zone for an actual listing is the 128-256px range, where
+the fix produces a real, measured improvement.
+
+**A second, more severe finding surfaced during this audit, outside the
+original question, and not yet resolved:** the piece's honest data shape
+is a very wide, thin band (data bbox 653×73, rendered as a 2120×600
+canvas). A center-square crop of that canvas — the kind of crop many
+gallery/listing UIs apply to a non-square image — lands almost entirely
+in the empty gap between the grid-extension and unclassified clusters
+(canvas x≈760-1360, against real content at x≈110-752, x≈1493-1707, and
+x≈1865-2010). A naive square crop of this render shows no glyphs at all,
+for any camp — not a fade, a total blank. This was verified directly:
+cropping the center 600×600px square out of the 2120×600 full render
+produces an image with nothing in it but faint edge traces.
+
+Whether this matters depends on how space.art-magazine.ai actually
+displays submitted artwork (contain-fit vs. crop-to-square), which this
+session could not verify — the Artist Space site is a JS app not
+reachable by non-interactive fetch (same blocker already logged against
+Chorus's registration step). No fix has been applied for this risk: this
+piece's aspect ratio and the empty space between clusters are both real,
+honestly-earned properties of the underlying force layout, and narrowing
+the canvas or padding the composition to survive a hypothetical
+center-crop would mean either distorting real relative distances or
+manufacturing dead space neither of which this render's own design
+commentary already rules out doing for cosmetic reasons. This is
+recorded as an open risk requiring either (a) confirming the platform's
+actual display behavior once registration is possible, or (b) an
+explicit decision to design around the worst case anyway, made with the
+tradeoff stated plainly rather than guessed at.

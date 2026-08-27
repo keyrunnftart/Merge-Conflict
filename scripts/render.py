@@ -72,10 +72,24 @@ for nd, p in zip(nodes, raw_positions):
     n.x, n.y = p
     n.family = camp_family(nd["camp"])
     total = nd["reactions"]["total_count"]
-    n.half = 3.5 + 13.0 * math.sqrt(total / 104.0)   # 104 = root's real max engagement
+    # Floor raised 3.5->5.0 and 0.4->0.8 after the thumbnail-legibility audit
+    # (see LAYOUT_CRITERION.md / progress log): at the smallest engagement
+    # values -- which is most of grid-extension's real distribution (mean
+    # half 5.01, max only 6.62, vs own's mean 5.45/max 12.05) -- the old
+    # floor put glyphs and their outlines under ~1px at a 128-256px thumbnail
+    # width, which is where this piece is most likely to actually be seen in
+    # a listing. This is a uniform, camp-blind constant change (applied to
+    # every node's floor, not targeted at grid-extension specifically) --
+    # the sqrt(engagement) term is untouched, so real engagement differences
+    # still scale the same way above the floor. It does not fabricate or
+    # equalize data: grid-extension is still smaller and sparser on average
+    # than own-display-type, honestly reflecting its real (fewer, lower-
+    # engagement) comment population -- the floor only stops "smaller" from
+    # crossing into "not there."
+    n.half = 5.0 + 13.0 * math.sqrt(total / 104.0)   # 104 = root's real max engagement
     n.contested = contestedness(nd["reactions"])
     body_len = nd["body_length"]
-    n.stroke_w = 0.4 + 2.2 * math.sqrt(min(body_len, 13191) / 13191.0)
+    n.stroke_w = 0.8 + 2.2 * math.sqrt(min(body_len, 13191) / 13191.0)
     render_nodes.append(n)
 
 id_to_node = {n.id: n for n in render_nodes}
@@ -236,14 +250,28 @@ def hatch_lines(cx_, cy_, half, density, color):
 
 node_svg = []
 for n in sorted(render_nodes, key=lambda nn: -nn.half):
+    # fill_opacity bumped for own/ext only (0.30->0.36) -- these are the two
+    # real opposing camps the piece's "two-state" legibility depends on
+    # (LAYOUT_CRITERION.md / Drift precedent language); unclassified stays
+    # at 0.20, unchanged, since it's deliberately recessive by design
+    # (VISUAL_LANGUAGE_SIGNALS.md) and isn't part of that two-state reading.
+    # stroke-opacity raised 0.85->1.0 for all three, uniformly -- the
+    # outline is what actually carries shape at small scale (measured via
+    # WCAG contrast ratio against BG: own 3.75, ext 2.84, unclassified 2.16
+    # at the old 0.85; own already read fine, ext/unclassified didn't), and
+    # a uniform full-opacity stroke doesn't erase the real color-driven
+    # contrast hierarchy between camps (own's teal still reads highest-
+    # contrast against the cream background than ext's rust or
+    # unclassified's gray even at 100% stroke opacity -- that hierarchy
+    # comes from hue/lightness choice, not this opacity value).
     if n.family == "own":
         color = COLOR_OWN
         path = diamond_path(n.sx, n.sy, n.half)
-        fill_opacity = 0.30
+        fill_opacity = 0.36
     elif n.family == "ext":
         color = COLOR_EXT
         path = l_tromino_path(n.sx, n.sy, n.half)
-        fill_opacity = 0.30
+        fill_opacity = 0.36
     else:
         color = COLOR_UNCLASSIFIED
         path = square_path(n.sx, n.sy, n.half)
@@ -254,7 +282,7 @@ for n in sorted(render_nodes, key=lambda nn: -nn.half):
         f'<g>'
         f'<clipPath id="{clip_id}"><path d="{path}"/></clipPath>'
         f'<path d="{path}" fill="{color}" fill-opacity="{fill_opacity}" '
-        f'stroke="{color}" stroke-opacity="0.85" stroke-width="{n.stroke_w:.2f}"/>'
+        f'stroke="{color}" stroke-opacity="1.0" stroke-width="{n.stroke_w:.2f}"/>'
         f'<g clip-path="url(#{clip_id})">{hatch_lines(n.sx, n.sy, n.half, n.contested, color)}</g>'
         f'</g>'
     )
