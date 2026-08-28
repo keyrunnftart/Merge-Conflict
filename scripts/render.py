@@ -136,20 +136,24 @@ for k, e in enumerate(edges):
     a = id_to_node[e["source"]]
     b = id_to_node[e["target"]]
     rel = e["camp_relationship"]
+    # Opacity bumped uniformly after live-platform review -- the dotted edges
+    # read too faint against the cream background at the original values.
+    # Relative hierarchy (cross-camp loudest, then same-camp, then neutral)
+    # is preserved at the new values, same as before.
     if rel == "cross-camp":
         color = COLOR_CROSS_EDGE
-        opacity = 0.20
+        opacity = 0.32
         dash = "1,6"
         width = 1.0
     elif rel == "same-camp":
         src_family = camp_family(next(nd["camp"] for nd in nodes if nd["id"] == e["source"]))
         color = COLOR_SAME_EDGE_OWN if src_family == "own" else COLOR_SAME_EDGE_EXT
-        opacity = 0.30
+        opacity = 0.42
         dash = "3,4"
         width = 0.9
     else:  # touches-unclassified
         color = COLOR_NEUTRAL_EDGE
-        opacity = 0.14
+        opacity = 0.22
         dash = "1,4"
         width = 0.7
 
