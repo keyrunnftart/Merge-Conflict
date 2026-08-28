@@ -2,7 +2,7 @@
 
 ![Merge Conflict artwork](output/merge_conflict_v1.png)
 
-A generative artwork built from a real, contentious GitHub thread — [w3c/csswg-drafts issue #9041](https://github.com/w3c/csswg-drafts/issues/9041) — turning 132 real comments into a force-directed graph of custom glyphs, where every visual channel maps back to a real, checked signal in the data.
+A generative artwork built from a real, contentious GitHub thread... [w3c/csswg-drafts issue #9041](https://github.com/w3c/csswg-drafts/issues/9041)... turning 132 real comments into a force-directed graph of custom glyphs, where every visual channel maps back to a real, checked signal in the data.
 
 ## Signal to Visual Channel
 
